@@ -1,0 +1,14 @@
+/home/thiago/Documents/parking_system/bin/Debug/net8.0/parking_system
+/home/thiago/Documents/parking_system/bin/Debug/net8.0/parking_system.deps.json
+/home/thiago/Documents/parking_system/bin/Debug/net8.0/parking_system.runtimeconfig.json
+/home/thiago/Documents/parking_system/bin/Debug/net8.0/parking_system.dll
+/home/thiago/Documents/parking_system/bin/Debug/net8.0/parking_system.pdb
+/home/thiago/Documents/parking_system/obj/Debug/net8.0/parking_system.GeneratedMSBuildEditorConfig.editorconfig
+/home/thiago/Documents/parking_system/obj/Debug/net8.0/parking_system.AssemblyInfoInputs.cache
+/home/thiago/Documents/parking_system/obj/Debug/net8.0/parking_system.AssemblyInfo.cs
+/home/thiago/Documents/parking_system/obj/Debug/net8.0/parking_system.csproj.CoreCompileInputs.cache
+/home/thiago/Documents/parking_system/obj/Debug/net8.0/parking_system.dll
+/home/thiago/Documents/parking_system/obj/Debug/net8.0/refint/parking_system.dll
+/home/thiago/Documents/parking_system/obj/Debug/net8.0/parking_system.pdb
+/home/thiago/Documents/parking_system/obj/Debug/net8.0/parking_system.genruntimeconfig.cache
+/home/thiago/Documents/parking_system/obj/Debug/net8.0/ref/parking_system.dll
